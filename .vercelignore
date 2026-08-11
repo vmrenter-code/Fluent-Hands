@@ -1,0 +1,5 @@
+# Python backend runs locally, not on Vercel — keep it out of the build
+requirements.txt
+model.py
+tf_asl_letters_model/
+venv/
