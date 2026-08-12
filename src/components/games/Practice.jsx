@@ -203,7 +203,7 @@ const Practice = () => {
                 Reference: {currentLetter}
               </div>
               <img
-                src={`/src/assets/asl/${currentLetter}.png`}
+                src={`/asl/${currentLetter}.png`}
                 alt={`ASL sign for ${currentLetter}`}
                 className="w-40 h-40 object-contain rounded-lg bg-white/5"
                 onError={(e) => {
